@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Vinay Mallepalli
 
 ## 👨‍💻 About Me
-I'm a passionate software developer based in Bangalore, Karnataka. My interests span across coding, solving real-world problems, social service, traveling, and singing. I thrive on learning new technologies and applying them to create impactful solutions.
+I'm a passionate software developer based in Bangalore. My interests span across coding, solving real-world problems, social service, traveling, and singing. I thrive on learning new technologies and applying them to create impactful solutions.
 
 ## 🚀 What I'm Working On
-- **Java Full Stack Development**: Currently expanding my skill set in Java and its related frameworks.
-- **Web Designing Projects**: Exploring new techniques and designs to create stunning web interfaces.
+- **Web Designing Projects**: Currently expanding my skill set in Web Development by Exploring new techniques and designs to create stunning web interfaces.
+- **Java Full Stack Development**: Have a strong foundation in Java and its related frameworks.
+
 
 ## 💼 Collaboration
 I'm always looking to collaborate on exciting Java and web designing projects. If you have an interesting project or idea, let's connect and build something amazing together!
@@ -24,7 +25,7 @@ I'm always looking to collaborate on exciting Java and web designing projects. I
 
 ## 🛠️ Skills
 - **Languages**: Java, Python, C, PHP, JavaScript, SQL
-- **Frameworks**: Hibernate, Spring, Laravel, Spring Boot
+- **Frameworks**: Hibernate, Spring, Spring Boot, Laravel
 - **Tools**: XAMPP, MariaDB, cURL, OpenAI API
 - **Other Skills**: Cloud API Integration, Database Management, WhatsApp Messaging Integration, Web Development
 
