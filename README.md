@@ -1,15 +1,17 @@
 # 👋 Hi, I’m Vinay Mallepalli
 
 ## 👨‍💻 About Me
-I'm a passionate software developer based in Bangalore. My interests span across coding, solving real-world problems, social service, traveling, and singing. I thrive on learning new technologies and applying them to create impactful solutions.
+I'm a passionate software developer based in Bangalore. 
+My interests span across coding, solving real-world problems.
+I thrive on learning new technologies and applying them to create impactful solutions.
 
 ## 🚀 What I'm Working On
-- **Web Designing Projects**: Currently expanding my skill set in Web Development by Exploring new techniques and designs to create stunning web interfaces.
-- **Java Full Stack Development**: Have a strong foundation in Java and its related frameworks.
+- **Web Development Projects**: Deepening my expertise in frontend and backend development by exploring cutting-edge techniques and innovative designs to craft visually stunning and highly functional web interfaces.
+- **Java Full Stack Development**: Building on my strong foundation in Java and its related frameworks to develop robust, scalable, and efficient full-stack applications.
 
 
 ## 💼 Collaboration
-I'm always looking to collaborate on exciting Java and web designing projects. If you have an interesting project or idea, let's connect and build something amazing together!
+I'm always looking to collaborate on exciting Java and web development projects. If you have an interesting project or idea, let's connect and build something amazing together!
 
 ## 📫 How to Reach Me
 - **Email**: [mallepallevinay03@gmail.com](mailto:mallepallevinay03@gmail.com)
