@@ -6,7 +6,7 @@ My interests span across coding, solving real-world problems.
 I thrive on learning new technologies and applying them to create impactful solutions.
 
 ## 🚀 What I'm Working On
-- **Web Development Projects**: Deepening my expertise in frontend and backend development by exploring cutting-edge techniques and innovative designs to craft visually stunning and highly functional web interfaces.
+- **Web Development Projects**: As a Full-Stack Developer, Deepening my expertise in frontend and backend development by exploring cutting-edge techniques and innovative designs to craft visually stunning and highly functional web interfaces.
 - **Java Full Stack Development**: Building on my strong foundation in Java and its related frameworks to develop robust, scalable, and efficient full-stack applications.
 
 
